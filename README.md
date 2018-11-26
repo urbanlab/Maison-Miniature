@@ -1,0 +1,2 @@
+# Maison-Miniature
+Maquette d’un habitat, qui reproduit à échelle réduite des espaces et du mobilier. Elle permet de mettre en scène différents aménagements, de reproduire les situations à risque et illustrer les bonnes pratiques. QUEL OBJECTIF ? Outil de médiation et de sensibilisation, il sert de support d’échange à un animateur dans le cadre d’ateliers collectifs de prévention. Cet objet physique facilite l’expression des bénéficiaires sur le sujet de l’adaptation du domicile.
