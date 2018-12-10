@@ -1,2 +1,5 @@
 # Maison-Miniature
-Maquette d’un habitat, qui reproduit à échelle réduite des espaces et du mobilier. Elle permet de mettre en scène différents aménagements, de reproduire les situations à risque et illustrer les bonnes pratiques. QUEL OBJECTIF ? Outil de médiation et de sensibilisation, il sert de support d’échange à un animateur dans le cadre d’ateliers collectifs de prévention. Cet objet physique facilite l’expression des bénéficiaires sur le sujet de l’adaptation du domicile.
+
+La Maison Miniature est un outil pour échanger avec les seniors sur la thématique du bien vivre chez soi dans le cadre d’ateliers collectifs de prévention. Cet objet physique facilite l’expression des bénéficiaires sur le sujet de l’adaptation du domicile. Il a été conçu et testé avec un ergothérapeute. Elle a été pensée pour les associations d’éducation et de prévention à la santé, les caisses de retraites, les mutuelles, et tous les professionnels de la prévention.
+
+Maquette d’un habitat, elle reproduit à échelle réduite des espaces et du mobilier. Elle permet de mettre en scène différents aménagements, de reproduire les situations à risque et illustrer les bonnes pratiques. 
